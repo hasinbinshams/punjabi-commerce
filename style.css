@@ -19,21 +19,22 @@
     width: 40%;
 } */
 .caro-bg {
-    background-color: rgb(164, 163, 163);
+    background-color: rgb(145, 143, 143);
     margin-top: 30px;
 }
 
 .w-60 {
-    width: 60%;
+    width: 67%;
 }
 
 .w-70 {
     width: 67%;
 }
 
+/* 
 .carousel-item {
     padding: 20px 120px;
-}
+} */
 
 .col-md-7 {
     padding-left: 200px;
@@ -55,9 +56,10 @@
 }
 
 .price {
-    font-weight: bold;
-    font-family: agencyfb;
-    color: #000000;
+    /* font-weight: bold; */
+    /* font-family: agencyfb; */
+    color: #f4ecec;
+    font-size: 60px;
 
 }
 
@@ -72,6 +74,9 @@
 }
 
 /* CARD1 ENDED */
+/* CARD3 STARTED */
+
+
 /* CARD2 STARTED */
 .container3 {
     margin-top: 50px;
